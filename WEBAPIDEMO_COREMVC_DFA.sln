@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPIDEMO_COREMVC_DFA", "WEBAPIDEMO_COREMVC_DFA.csproj", "{1013D6FE-AAA3-46C3-ABCA-D444A201C5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1013D6FE-AAA3-46C3-ABCA-D444A201C5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1013D6FE-AAA3-46C3-ABCA-D444A201C5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1013D6FE-AAA3-46C3-ABCA-D444A201C5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1013D6FE-AAA3-46C3-ABCA-D444A201C5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5292A20-1844-40DF-BB9F-E5F36E5611BD}
+	EndGlobalSection
+EndGlobal
